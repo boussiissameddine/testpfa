@@ -1,5 +1,1 @@
-#  testpfa kubernetes
-ok
-hello-world
-test
-
+# pfa kubernetes
